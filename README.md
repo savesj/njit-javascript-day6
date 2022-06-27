@@ -1,0 +1,1 @@
+# njit-javascript-day6
